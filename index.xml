@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="data-table.xsl" type="text/xsl" ?>
+<Computers>
+    <Computer>
+        <Brand>Dell</Brand>
+        <Processor>Intel Core i5</Processor>
+        <RAM>8GB</RAM>
+        <Storage>512GB SSD</Storage>
+        <DisplaySize>15.6 inches</DisplaySize>
+        <BatteryLife>7 hours</BatteryLife>
+        <Weight>1.8 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>HP</Brand>
+        <Processor>Intel Core i7</Processor>
+        <RAM>16GB</RAM>
+        <Storage>1TB SSD</Storage>
+        <DisplaySize>14 inches</DisplaySize>
+        <BatteryLife>9 hours</BatteryLife>
+        <Weight>1.6 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Apple</Brand>
+        <Processor>M1</Processor>
+        <RAM>8GB</RAM>
+        <Storage>256GB SSD</Storage>
+        <DisplaySize>13.3 inches</DisplaySize>
+        <BatteryLife>18 hours</BatteryLife>
+        <Weight>1.29 kg</Weight>
+        <OperatingSystem>macOS</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Lenovo</Brand>
+        <Processor>Intel Core i7</Processor>
+        <RAM>16GB</RAM>
+        <Storage>1TB SSD</Storage>
+        <DisplaySize>14 inches</DisplaySize>
+        <BatteryLife>10 hours</BatteryLife>
+        <Weight>1.09 kg</Weight>
+        <OperatingSystem>Windows 11 Pro</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Asus</Brand>
+        <Processor>AMD Ryzen 9</Processor>
+        <RAM>16GB</RAM>
+        <Storage>1TB SSD</Storage>
+        <DisplaySize>14 inches</DisplaySize>
+        <BatteryLife>6 hours</BatteryLife>
+        <Weight>1.7 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Acer</Brand>
+        <Processor>Intel Core i3</Processor>
+        <RAM>4GB</RAM>
+        <Storage>256GB SSD</Storage>
+        <DisplaySize>15.6 inches</DisplaySize>
+        <BatteryLife>5 hours</BatteryLife>
+        <Weight>1.9 kg</Weight>
+        <OperatingSystem>Windows 10</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Microsoft</Brand>
+        <Processor>Intel Core i7</Processor>
+        <RAM>16GB</RAM>
+        <Storage>512GB SSD</Storage>
+        <DisplaySize>13.5 inches</DisplaySize>
+        <BatteryLife>11 hours</BatteryLife>
+        <Weight>1.2 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>MSI</Brand>
+        <Processor>AMD Ryzen 7</Processor>
+        <RAM>16GB</RAM>
+        <Storage>1TB SSD</Storage>
+        <DisplaySize>15.6 inches</DisplaySize>
+        <BatteryLife>7 hours</BatteryLife>
+        <Weight>2.0 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Razer</Brand>
+        <Processor>Intel Core i9</Processor>
+        <RAM>32GB</RAM>
+        <Storage>2TB SSD</Storage>
+        <DisplaySize>15.6 inches</DisplaySize>
+        <BatteryLife>5 hours</BatteryLife>
+        <Weight>2.1 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Samsung</Brand>
+        <Processor>Intel Core i5</Processor>
+        <RAM>8GB</RAM>
+        <Storage>512GB SSD</Storage>
+        <DisplaySize>13.3 inches</DisplaySize>
+        <BatteryLife>10 hours</BatteryLife>
+        <Weight>1.3 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Alienware</Brand>
+        <Processor>Intel Core i9</Processor>
+        <RAM>32GB</RAM>
+        <Storage>1TB SSD</Storage>
+        <DisplaySize>17.3 inches</DisplaySize>
+        <BatteryLife>4 hours</BatteryLife>
+        <Weight>3.0 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Huawei</Brand>
+        <Processor>Intel Core i5</Processor>
+        <RAM>8GB</RAM>
+        <Storage>512GB SSD</Storage>
+        <DisplaySize>14 inches</DisplaySize>
+        <BatteryLife>12 hours</BatteryLife>
+        <Weight>1.38 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Gigabyte</Brand>
+        <Processor>AMD Ryzen 5</Processor>
+        <RAM>16GB</RAM>
+        <Storage>512GB SSD</Storage>
+        <DisplaySize>15.6 inches</DisplaySize>
+        <BatteryLife>8 hours</BatteryLife>
+        <Weight>1.9 kg</Weight>
+        <OperatingSystem>Windows 11</OperatingSystem>
+    </Computer>
+    <Computer>
+        <Brand>Chromebook</Brand>
+        <Processor>Intel Celeron</Processor>
+        <RAM>4GB</RAM>
+        <Storage>64GB eMMC</Storage>
+        <DisplaySize>11.6 inches</DisplaySize>
+        <BatteryLife>10 hours</BatteryLife>
+        <Weight>1.1 kg</Weight>
+        <OperatingSystem>Chrome OS</OperatingSystem>
+    </Computer>
+</Computers>
